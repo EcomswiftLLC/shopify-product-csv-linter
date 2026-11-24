@@ -1,0 +1,5 @@
+Handle,Title,Body (HTML),Vendor,Tags,Published,Option1 Name,Option1 Value,Variant SKU,Variant Inventory Tracker,Variant Inventory Qty,Variant Price,Variant Compare At Price,Variant Barcode,Image Src,Image Position,Image Alt Text,Variant Imag,Status
+Linen Shirt,Linen Shirt,<p>Relaxed linen shirt.</p>,Harbor & Pine,"shirt, linen",TRUE,Size,S,SHIRT-S,,15,"$1,299.00",,4006381333932,https://cdn.example.com/shirt.jpg,1,,,active
+Linen Shirt,,,,,,,S,SHIRT-S2,,,59.00,49.00,,,,,,
+Linen Shirt,,,,,,,,SHIRT-L,shopify,8,59.00,,,not-a-url.jpg,1,Linen shirt,,
+ceramic-vase,,<p>Hand-thrown vase.</p>,Harbor & Pine,vase,MAYBE,Title,Default Title,1.23457E+12,shopify,3,,,,https://cdn.example.com/vase.jpg,1,Ceramic vase,,live

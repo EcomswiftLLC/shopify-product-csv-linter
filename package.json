@@ -1,0 +1,44 @@
+{
+  "name": "shopify-product-csv-linter",
+  "version": "1.0.0",
+  "description": "Lint a Shopify product import CSV before you upload it: duplicate variants, Excel-mangled barcodes, bad prices, broken image URLs and more. Zero dependencies.",
+  "main": "src/index.js",
+  "bin": {
+    "spcl": "bin/spcl.js"
+  },
+  "files": [
+    "src",
+    "bin",
+    "examples",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "shopify",
+    "csv",
+    "product-import",
+    "linter",
+    "validator",
+    "catalog",
+    "migration",
+    "ecommerce"
+  ],
+  "license": "MIT",
+  "author": "Ecom Swift LLC <support@ecomswiftllc.com>",
+  "homepage": "https://github.com/EcomswiftLLC/shopify-product-csv-linter",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EcomswiftLLC/shopify-product-csv-linter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/EcomswiftLLC/shopify-product-csv-linter/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
